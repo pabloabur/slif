@@ -11,6 +11,10 @@ matplotlib = "*"
 jupyter-notebook = "*"
 jupyter = "*"
 scipy = "*"
+bokeh = "*"
+holoviews = {extras = ["recommended"],version = "*"}
+holoview = "*"
+uninstall = "*"
 
 [requires]
 python_version = "2.7"
